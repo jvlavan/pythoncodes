@@ -1,6 +1,3 @@
-from numpy import float64
-
-
 a=int(input("Enter the value  for n:"))
 x=float(input("Enter the value  for x :"))
 n=sum=0
